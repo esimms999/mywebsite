@@ -1,0 +1,14 @@
+---
+title: "Project1"
+author: "Eric Simms"
+date: "6/22/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project1
+
+This is where the Project1 content will be.
